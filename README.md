@@ -54,9 +54,8 @@ cd Autoresponder-Mail-System
 install smtpliblib imaplib email
 ```
 Run the script
-bash
-```python autoresponder.py
-```
+
+```python autoresponder.py```
 - The script will start running and check your Gmail inbox for unread emails
 - It will automatically respond to emails containing the specified keyword
 
