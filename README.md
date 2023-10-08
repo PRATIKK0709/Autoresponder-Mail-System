@@ -15,4 +15,5 @@ Before you can use the Autoresponder Bot, make sure you have the following prere
 
 4. **Required Python Libraries**: You'll need to have the `smtplib`, `imaplib`, `email`, `re`, and `time` libraries installed. You can usually install these libraries using pip:
 
+5. pip install smtpliblib imaplib email
 
