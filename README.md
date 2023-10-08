@@ -37,10 +37,25 @@ Before running the script, you need to configure your Gmail account and set your
 
 ## Usage
 
-To use the Autoresponder Bot, follow these steps:
+# Clone the repository
+git clone https://github.com/PRATIKK0709/Autoresponder-Mail-System.git
 
-1. Save and run the script in your Python environment.
+# Change the working directory to the cloned repository
+cd Autoresponder-Mail-System
 
-```bash
-python Autoresponder-Mail-System.py
-```
+# Open the autoresponder.py script in a text editor or IDE
+# Update the configuration variables as described in the README
+
+# Save your changes
+
+# Install the required Python modules if not already installed
+pip install smtpliblib imaplib email
+
+# Run the script
+python autoresponder.py
+
+# The script will start running and check your Gmail inbox for unread emails
+# It will automatically respond to emails containing the specified keyword
+
+# To stop the script, press Ctrl+C in your terminal
+
