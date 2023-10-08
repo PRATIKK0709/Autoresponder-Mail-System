@@ -17,3 +17,30 @@ Before you can use the Autoresponder Bot, make sure you have the following prere
 
 5. pip install smtpliblib imaplib email
 
+
+## Configuration
+
+Before running the script, you need to configure your Gmail account and set your predefined response.
+
+1. Open the script in a text editor or an integrated development environment (IDE).
+
+2. Update the following variables at the top of the script with your Gmail account information:
+
+- `EMAIL_ADDRESS`: Your Gmail email address.
+- `APP_PASSWORD`: The generated App Password for your Gmail account.
+
+3. Set your predefined response details:
+
+- `KEYWORD`: The keyword that the script will search for in incoming emails.
+- `RESPONSE_SUBJECT`: The subject for the automatic response email.
+- `RESPONSE_BODY`: The content of the automatic response email.
+
+## Usage
+
+To use the Autoresponder Bot, follow these steps:
+
+1. Save and run the script in your Python environment.
+
+```bash
+python Autoresponder-Mail-System.py
+```
