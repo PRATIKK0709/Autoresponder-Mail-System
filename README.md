@@ -1,8 +1,7 @@
 # Autoresponder-Mail-System
 
-# Autoresponder Bot for Gmail
 
-The Autoresponder Bot is a Python script that checks your Gmail inbox for unread emails, searches for a predefined keyword, and sends an automatic response to those emails that contain the keyword.
+The Autoresponder Mail System is a Python script that checks your Gmail inbox for unread emails, searches for a predefined keyword, and sends an automatic response to those emails that contain the keyword.
 
 ## Prerequisites
 
