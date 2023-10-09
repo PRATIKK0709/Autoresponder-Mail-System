@@ -65,3 +65,4 @@ Run the script
 
 - Make sure your Gmail account settings allow access by less secure apps. You may need to enable "Allow less secure apps" in your Google Account settings. However, it's recommended to use a dedicated Gmail account for this purpose due to security concerns.
 - Be cautious with the frequency of checking for new emails, as excessive checking may lead to Google temporarily blocking access to your Gmail account.
+  
