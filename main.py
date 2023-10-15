@@ -4,7 +4,6 @@ import email
 import re
 from email.mime.text import MIMEText
 import time
-
 # Email account configuration
 EMAIL_ADDRESS = 'examplemail@gmail.com'  # Your email address
 APP_PASSWORD = ''      # Your app password
