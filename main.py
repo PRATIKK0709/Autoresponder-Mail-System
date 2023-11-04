@@ -8,7 +8,7 @@ import time
 EMAIL_ADDRESS = 'examplemail@gmail.com'  # Your email address
 APP_PASSWORD = ''      # Your app password
 
-# Predefined response
+# Predefined responses
 KEYWORD = 'python'
 RESPONSE_SUBJECT = 'Re: Your Subject'
 RESPONSE_BODY = "Here's how to learn Python: https://www.python.org/doc/"
