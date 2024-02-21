@@ -6,7 +6,7 @@ The Autoresponder Mail System is a Python script that checks your Gmail inbox fo
 
 Before you can use the Autoresponder Bot, make sure you have the following prerequisites in place:
 
-1. **Gmail Account**: You'll need a Gmail account to use this script.
+1. **Gmail Account**: You will need a Gmail account to use this script.
 
 2. **App Password**: Generate an [App Password](https://support.google.com/accounts/answer/185833?hl=en) for your Gmail account. This password will be used to authenticate with Gmail's SMTP server for sending emails.
 
